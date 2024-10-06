@@ -1,0 +1,22 @@
+C:\Users\marco\OneDrive\Área de Trabalho\ProjetoCubo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Área de Trabalho\ProjetoCubo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\ProjetoCubo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\marco\OneDrive\Área de Trabalho\ProjetoCubo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\marco\OneDrive\Área de Trabalho\ProjetoCubo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\ProjetoCubo\ConsoleApp1\ConsoleApp1\bin\Debug\OpenTK.dll
+C:\Users\marco\OneDrive\Área de Trabalho\ProjetoCubo\ConsoleApp1\ConsoleApp1\bin\Debug\OpenTK.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\ProjetoCubo\ConsoleApp1\ConsoleApp1\bin\Debug\OpenTK.xml
+C:\Users\marco\OneDrive\Área de Trabalho\ProjetoCubo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+C:\Users\marco\OneDrive\Área de Trabalho\ProjetoCubo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\marco\OneDrive\Área de Trabalho\ProjetoCubo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\Cubo 3D Rotacional\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\marco\OneDrive\Área de Trabalho\Cubo 3D Rotacional\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\marco\OneDrive\Área de Trabalho\Cubo 3D Rotacional\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\Cubo 3D Rotacional\ConsoleApp1\ConsoleApp1\bin\Debug\OpenTK.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Cubo 3D Rotacional\ConsoleApp1\ConsoleApp1\bin\Debug\OpenTK.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\Cubo 3D Rotacional\ConsoleApp1\ConsoleApp1\bin\Debug\OpenTK.xml
+C:\Users\marco\OneDrive\Área de Trabalho\Cubo 3D Rotacional\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Cubo 3D Rotacional\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Cubo 3D Rotacional\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+C:\Users\marco\OneDrive\Área de Trabalho\Cubo 3D Rotacional\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\marco\OneDrive\Área de Trabalho\Cubo 3D Rotacional\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
